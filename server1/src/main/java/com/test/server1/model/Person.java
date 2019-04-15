@@ -1,4 +1,4 @@
-package com.test.server1.Model;
+package com.test.server1.model;
 
 public class Person {
     private String name;

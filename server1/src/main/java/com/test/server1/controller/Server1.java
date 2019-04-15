@@ -1,7 +1,7 @@
 package com.test.server1.controller;
 
 import com.fasterxml.jackson.databind.util.JSONPObject;
-import com.test.server1.Model.Person;
+import com.test.server1.model.Person;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
